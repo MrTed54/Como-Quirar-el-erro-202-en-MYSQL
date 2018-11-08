@@ -1,2 +1,5 @@
-# Como-Quirar-el-erro-202-en-MYSQL
-Es es un aporte a la comunidad de GNU/LINUX el cual ayuda a recuperal el control de Mysql cuando perdemos la contraseña o cometemos algun error
+# Este contenido muestra 2 problemas:
+# Cambiar la contraseña root de MySQL
+1.- Detener el demonio de Mysql 
+con el comando ps aux 
+
